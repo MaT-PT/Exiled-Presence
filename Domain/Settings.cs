@@ -9,12 +9,12 @@ namespace Domain {
     /// Contains application-wide constants and settings
     /// </summary>
     public class Settings {
-        public const string DiscordAppId = "551089446460850176";
+        public const string DiscordAppId = "778014877469769768";
         public const string ProgramName = "Exiled Presence";
         public const string GameWindowTitle = "Path of Exile";
         public const string Version = "v1.0.5";
 
-        public const string ReleaseApi = "https://api.github.com/repos/siegrest/Exiled-Presence/releases";
+        public const string ReleaseApi = "https://api.github.com/repos/MaT-PT/Exiled-Presence/releases";
         public const string CharApi = "https://www.pathofexile.com/character-window/get-characters";
 
         public static readonly string StartupFolderPath = Environment.GetFolderPath(Environment.SpecialFolder.Startup);

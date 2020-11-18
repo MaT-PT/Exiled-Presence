@@ -597,7 +597,7 @@
     "name": "Maligaro's Sanctum",
     "act": 7,
     "lvl": 52,
-    "key": "area_quest"
+    "key": "area_map_quest_maligaros_sanctum"
   },
   {
     "name": "The Den",
@@ -855,6 +855,24 @@
     "name": "The Feeding Trough",
     "act": 10,
     "lvl": 67,
+    "key": "area_quest"
+  },
+  {
+    "name": "The Templar Laboratory",
+    "act": 11,
+    "lvl": 68,
+    "key": "area_quest"
+  },
+  {
+    "name": "The Fallen Courts",
+    "act": 11,
+    "lvl": 68,
+    "key": "area_quest"
+  },
+  {
+    "name": "The Haunted Reliquary",
+    "act": 11,
+    "lvl": 68,
     "key": "area_quest"
   }
 ]

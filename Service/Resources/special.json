@@ -2,7 +2,8 @@
   {
     "name": "Abyssal Depths",
     "key": "area_abyss"
-  },{
+  },
+  {
     "name": "Azurite Mine",
     "key": "area_delve"
   },
@@ -31,7 +32,11 @@
     "key": "area_synthesis"
   },
   {
-    "name": "The Templar Laboratory",
-    "key": "area_quest"
+    "name": "The Sacred Grove",
+    "key": "area_harvest"
+  },
+  {
+    "name": "Tane's Laboratory",
+    "key": "area_metamorph"
   }
 ]

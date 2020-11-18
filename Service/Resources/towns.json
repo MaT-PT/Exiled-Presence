@@ -58,5 +58,10 @@
     "name": "Oriath",
     "act": 11,
     "key": "area_town"
+  },
+  {
+    "name": "Karui Shores",
+    "act": 11,
+    "key": "area_town"
   }
 ]

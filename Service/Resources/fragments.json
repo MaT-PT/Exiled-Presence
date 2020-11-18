@@ -1,7 +1,7 @@
 [
   {
     "name": "Absence of Value and Meaning",
-    "key": "area_map_fragment_the_shapers_realm"
+    "key": "area_map_fragment_absence_of_value_and_meaning"
   },
   {
     "name": "The Shaper's Realm",
@@ -38,5 +38,77 @@
   {
     "name": "The Pale Court",
     "key": "area_map_fragment_the_pale_court"
+  },
+  {
+    "name": "Lunacy's Watch",
+    "key": "area_map_fragment_simulacrum"
+  },
+  {
+    "name": "The Bridge Enraptured",
+    "key": "area_map_fragment_simulacrum"
+  },
+  {
+    "name": "The Syndrome Encampment",
+    "key": "area_map_fragment_simulacrum"
+  },
+  {
+    "name": "Hysteriagate",
+    "key": "area_map_fragment_simulacrum"
+  },
+  {
+    "name": "Oriath Delusion",
+    "key": "area_map_fragment_simulacrum"
+  },
+  {
+    "name": "Domain of Timeless Conflict",
+    "key": "area_map_fragment_legion"
+  },
+  {
+    "name": "Manor of Madness",
+    "key": "area_eradicator"
+  },
+  {
+    "name": "Repository of Derision",
+    "key": "area_eradicator"
+  },
+  {
+    "name": "Spires of Delusion",
+    "key": "area_eradicator"
+  },
+  {
+    "name": "Ruins of Despair",
+    "key": "area_constrictor"
+  },
+  {
+    "name": "Island of Devastation",
+    "key": "area_constrictor"
+  },
+  {
+    "name": "Sea of Isolation",
+    "key": "area_constrictor"
+  },
+  {
+    "name": "Vaults of Insanity",
+    "key": "area_purifier"
+  },
+  {
+    "name": "Halls of Delirium",
+    "key": "area_purifier"
+  },
+  {
+    "name": "Pits of Sorrow",
+    "key": "area_purifier"
+  },
+  {
+    "name": "River of Hysteria",
+    "key": "area_enslaver"
+  },
+  {
+    "name": "Desert of Dementia",
+    "key": "area_enslaver"
+  },
+  {
+    "name": "Wastes of Lunacy",
+    "key": "area_enslaver"
   }
 ]

@@ -78,5 +78,33 @@
   {
     "name": "Doryani's Machinarium",
     "key": "area_map_unique_doryanis_machinarium"
+  },
+  {
+    "name": "Infused Beachhead",
+    "key": "area_map_unique_infused_beachhead"
+  },
+  {
+    "name": "Altered Distant Memory",
+    "key": "area_map_unique_synthesis_altered_distant_memory"
+  },
+  {
+    "name": "Augmented Distant Memory",
+    "key": "area_map_unique_synthesis_augmented_distant_memory"
+  },
+  {
+    "name": "Rewritten Distant Memory",
+    "key": "area_map_unique_synthesis_rewritten_distant_memory"
+  },
+  {
+    "name": "Twisted Distant Memory",
+    "key": "area_map_unique_synthesis_twisted_distant_memory"
+  },
+  {
+    "name": "Cortex",
+    "key": "area_map_unique_synthesis_cortex"
+  },
+  {
+    "name": "Replica Cortex",
+    "key": "area_map_unique_synthesis_cortex"
   }
 ]

@@ -121,22 +121,22 @@
   },
   {
     "name": "Crusader's Sanctum",
-    "key": "area_boss_crusader"
+    "key": "area_boss_crusader_2"
   },
   {
     "name": "Hunter's Ambush",
-    "key": "area_boss_hunter"
+    "key": "area_boss_hunter_2"
   },
   {
     "name": "Redeemer's Eyrie",
-    "key": "area_boss_redeemer"
+    "key": "area_boss_redeemer_2"
   },
   {
     "name": "Warlords's Keep",
-    "key": "area_boss_warlord"
+    "key": "area_boss_warlord_2"
   },
   {
     "name": "Eye of the Storm",
-    "key": "area_boss_sirus"
+    "key": "area_boss_sirus_2"
   }
 ]

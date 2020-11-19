@@ -1,67 +1,67 @@
 [
   {
     "name": "Jungle Valley",
-    "map_tier": 1,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
     "name": "Pier",
-    "map_tier": 1,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Arcade",
-    "map_tier": 1,
-    "key": "area_map_default_white"
+    "map_tier": 13,
+    "key": "area_map_default_red"
   },
   {
     "name": "Wharf",
-    "map_tier": 1,
+    "map_tier": 5,
     "key": "area_map_default_white"
   },
   {
     "name": "Cage",
-    "map_tier": 2,
+    "map_tier": 5,
     "key": "area_map_default_white"
   },
   {
     "name": "Sulphur Vents",
-    "map_tier": 2,
-    "key": "area_map_default_white"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Excavation",
-    "map_tier": 2,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
     "name": "Mesa",
-    "map_tier": 2,
+    "map_tier": 3,
     "key": "area_map_default_white"
   },
   {
     "name": "Armoury",
-    "map_tier": 2,
-    "key": "area_map_default_white"
+    "map_tier": 11,
+    "key": "area_map_default_red"
   },
   {
     "name": "Alleyways",
-    "map_tier": 2,
+    "map_tier": 5,
     "key": "area_map_default_white"
   },
   {
     "name": "Ivory Temple",
-    "map_tier": 3,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
     "name": "Ramparts",
-    "map_tier": 3,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
     "name": "Tropical Island",
-    "map_tier": 3,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
@@ -76,58 +76,58 @@
   },
   {
     "name": "Fungal Hollow",
-    "map_tier": 3,
-    "key": "area_map_default_white"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Desert",
-    "map_tier": 3,
-    "key": "area_map_default_white"
+    "map_tier": 11,
+    "key": "area_map_default_red"
   },
   {
     "name": "Ashen Wood",
-    "map_tier": 3,
-    "key": "area_map_default_white"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Mausoleum",
-    "map_tier": 3,
+    "map_tier": 1,
     "key": "area_map_default_white"
   },
   {
     "name": "Spider Lair",
-    "map_tier": 3,
-    "key": "area_map_default_white"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Arid Lake",
-    "map_tier": 4,
+    "map_tier": 5,
     "key": "area_map_default_white"
   },
   {
     "name": "Crater",
-    "map_tier": 4,
+    "map_tier": 3,
     "key": "area_map_default_white"
   },
   {
     "name": "Fields",
-    "map_tier": 4,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Arachnid Tomb",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 16,
+    "key": "area_map_default_red"
   },
   {
     "name": "Cursed Crypt",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 13,
+    "key": "area_map_default_red"
   },
   {
     "name": "Leyline",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Channel",
@@ -136,418 +136,418 @@
   },
   {
     "name": "Burial Chambers",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Barrows",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 11,
+    "key": "area_map_default_red"
   },
   {
     "name": "Flooded Mine",
-    "map_tier": 4,
-    "key": "area_map_default_white"
+    "map_tier": 11,
+    "key": "area_map_default_red"
   },
   {
     "name": "Grotto",
-    "map_tier": 5,
+    "map_tier": 3,
     "key": "area_map_default_white"
   },
   {
     "name": "Marshes",
-    "map_tier": 5,
+    "map_tier": 4,
     "key": "area_map_default_white"
   },
   {
     "name": "Peninsula",
-    "map_tier": 5,
-    "key": "area_map_default_white"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Beach",
-    "map_tier": 5,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Glacier",
-    "map_tier": 5,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Thicket",
-    "map_tier": 5,
+    "map_tier": 3,
     "key": "area_map_default_white"
   },
   {
     "name": "Relic Chambers",
-    "map_tier": 5,
-    "key": "area_map_default_white"
+    "map_tier": 9,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "City Square",
-    "map_tier": 5,
-    "key": "area_map_default_white"
+    "map_tier": 7,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "Haunted Mansion",
-    "map_tier": 5,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Lookout",
-    "map_tier": 5,
+    "map_tier": 2,
     "key": "area_map_default_white"
   },
   {
     "name": "Ghetto",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Geode",
-    "map_tier": 6,
+    "map_tier": 9,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Maze",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 13,
+    "key": "area_map_default_red"
   },
   {
     "name": "Lighthouse",
-    "map_tier": 6,
+    "map_tier": 7,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Residence",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Bone Crypt",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Arsenal",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Overgrown Shrine",
-    "map_tier": 6,
+    "map_tier": 9,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Vault",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Estuary",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Racecourse",
-    "map_tier": 6,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Chateau",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Villa",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Necropolis",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 16,
+    "key": "area_map_default_red"
   },
   {
     "name": "Factory",
-    "map_tier": 7,
+    "map_tier": 9,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Bazaar",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Port",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Ancient City",
-    "map_tier": 7,
+    "map_tier": 8,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Spider Forest",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 12,
+    "key": "area_map_default_red"
   },
   {
     "name": "Underground Sea",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Waste Pool",
-    "map_tier": 7,
+    "map_tier": 9,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Conservatory",
-    "map_tier": 7,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Cells",
-    "map_tier": 8,
+    "map_tier": 10,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Volcano",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 1,
+    "key": "area_map_default_white"
   },
   {
     "name": "Graveyard",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Atoll",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Shore",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Sepulchre",
-    "map_tier": 8,
+    "map_tier": 6,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Underground River",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Arachnid Nest",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 12,
+    "key": "area_map_default_red"
   },
   {
     "name": "Temple",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Phantasmagoria",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Pit",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Vaal Temple",
-    "map_tier": 8,
-    "key": "area_map_default_yellow"
+    "map_tier": 16,
+    "key": "area_map_default_red"
   },
   {
     "name": "Arena",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Scriptorium",
-    "map_tier": 9,
+    "map_tier": 6,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Castle Ruins",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Laboratory",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Dungeon",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Courtyard",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Waterways",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Mud Geyser",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Coral Ruins",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Mineral Pools",
-    "map_tier": 9,
+    "map_tier": 10,
     "key": "area_map_default_yellow"
   },
   {
     "name": "Promenade",
-    "map_tier": 9,
-    "key": "area_map_default_yellow"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Overgrown Ruin",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 15,
+    "key": "area_map_default_red"
   },
   {
     "name": "Lava Chamber",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Primordial Pool",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 14,
+    "key": "area_map_default_red"
   },
   {
     "name": "Toxic Sewer",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Plateau",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Academy",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Moon Temple",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Bog",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Dunes",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Iceberg",
-    "map_tier": 10,
-    "key": "area_map_default_yellow"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Gardens",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Reef",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Lair",
-    "map_tier": 11,
+    "map_tier": 13,
     "key": "area_map_default_red"
   },
   {
     "name": "Sunken City",
-    "map_tier": 11,
+    "map_tier": 14,
     "key": "area_map_default_red"
   },
   {
     "name": "Vaal Pyramid",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Caldera",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Park",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 1,
+    "key": "area_map_default_white"
   },
   {
     "name": "Palace",
-    "map_tier": 11,
+    "map_tier": 15,
     "key": "area_map_default_red"
   },
   {
     "name": "Tower",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 1,
+    "key": "area_map_default_white"
   },
   {
     "name": "Shrine",
-    "map_tier": 11,
-    "key": "area_map_default_red"
+    "map_tier": 9,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "Courthouse",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Malformation",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 8,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "Desert Spring",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Shipyard",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Cemetery",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Crystal Ore",
@@ -556,133 +556,133 @@
   },
   {
     "name": "Dig",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Dig",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Belfry",
-    "map_tier": 12,
+    "map_tier": 14,
     "key": "area_map_default_red"
   },
   {
     "name": "Plaza",
-    "map_tier": 12,
-    "key": "area_map_default_red"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Necropolis",
-    "map_tier": 12,
+    "map_tier": 16,
     "key": "area_map_default_red"
   },
   {
     "name": "Crimson Temple",
-    "map_tier": 13,
+    "map_tier": 11,
     "key": "area_map_default_red"
   },
   {
     "name": "Precinct",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Wasteland",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Acid Caverns",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 9,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "Infested Valley",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Basilica",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 5,
+    "key": "area_map_default_white"
   },
   {
     "name": "Museum",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Orchard",
-    "map_tier": 13,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Carcass",
-    "map_tier": 13,
+    "map_tier": 14,
     "key": "area_map_default_red"
   },
   {
     "name": "Defiled Cathedral",
-    "map_tier": 14,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Core",
-    "map_tier": 14,
+    "map_tier": 11,
     "key": "area_map_default_red"
   },
   {
     "name": "Terrace",
-    "map_tier": 14,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Colosseum",
-    "map_tier": 14,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Lava Lake",
-    "map_tier": 14,
+    "map_tier": 15,
     "key": "area_map_default_red"
   },
   {
     "name": "Summit",
-    "map_tier": 14,
+    "map_tier": 16,
     "key": "area_map_default_red"
   },
   {
     "name": "Primordial Blocks",
-    "map_tier": 14,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Dark Forest",
-    "map_tier": 15,
-    "key": "area_map_default_red"
+    "map_tier": 10,
+    "key": "area_map_default_yellow"
   },
   {
     "name": "Coves",
-    "map_tier": 15,
-    "key": "area_map_default_red"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Canyon",
-    "map_tier": 15,
+    "map_tier": 12,
     "key": "area_map_default_red"
   },
   {
     "name": "Colonnade",
-    "map_tier": 15,
-    "key": "area_map_default_red"
+    "map_tier": 2,
+    "key": "area_map_default_white"
   },
   {
     "name": "Siege",
-    "map_tier": 15,
-    "key": "area_map_default_red"
+    "map_tier": 4,
+    "key": "area_map_default_white"
   },
   {
     "name": "Pit of the Chimera",
@@ -711,12 +711,12 @@
   },
   {
     "name": "Dig",
-    "map_tier": 16,
-    "key": "area_map_default_red"
+    "map_tier": 3,
+    "key": "area_map_default_white"
   },
   {
     "name": "Acid Caverns",
-    "map_tier": 16,
-    "key": "area_map_default_red"
+    "map_tier": 9,
+    "key": "area_map_default_yellow"
   }
 ]

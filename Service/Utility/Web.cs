@@ -27,7 +27,7 @@ namespace Service {
             }
 
             var cancellationTokenSource = new CancellationTokenSource();
-            var response = await Client.ExecuteTaskAsync(request, cancellationTokenSource.Token);
+            var response = await Client.ExecuteAsync(request, cancellationTokenSource.Token);
 
             if (response.StatusCode == HttpStatusCode.Forbidden) {
                 if (string.IsNullOrEmpty(sessId)) {
@@ -48,7 +48,7 @@ namespace Service {
         public static async Task<Release> GetLatestRelease(string url) {
             var request = new RestRequest(url, Method.GET);
             var cancellationTokenSource = new CancellationTokenSource();
-            var response = await Client.ExecuteTaskAsync(request, cancellationTokenSource.Token);
+            var response = await Client.ExecuteAsync(request, cancellationTokenSource.Token);
 
             var releases = JsonUtility.Deserialize<Release[]>(response.Content);
             if (releases == null || releases.Length == 0) {

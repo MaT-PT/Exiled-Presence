@@ -64,6 +64,14 @@
     "key": "area_map_fragment_legion"
   },
   {
+    "name": "Ancient Reliquary",
+    "key": "area_map_fragment_ancient_reliquary"
+  },
+  {
+    "name": "Timeworn Reliquary",
+    "key": "area_map_fragment_timeworn_reliquary"
+  },
+  {
     "name": "Manor of Madness",
     "key": "area_eradicator"
   },

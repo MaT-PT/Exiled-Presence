@@ -118,5 +118,25 @@
   {
     "name": "Wastes of Lunacy",
     "key": "area_boss_enslaver"
+  },
+  {
+    "name": "Crusader's Sanctum",
+    "key": "area_boss_crusader"
+  },
+  {
+    "name": "Hunter's Ambush",
+    "key": "area_boss_hunter"
+  },
+  {
+    "name": "Redeemer's Eyrie",
+    "key": "area_boss_redeemer"
+  },
+  {
+    "name": "Warlords's Keep",
+    "key": "area_boss_warlord"
+  },
+  {
+    "name": "Eye of the Storm",
+    "key": "area_boss_sirus"
   }
 ]

@@ -38,5 +38,9 @@
   {
     "name": "Tane's Laboratory",
     "key": "area_metamorph"
+  },
+  {
+    "name": "Sarn Arena",
+    "key": "area_quest_3"
   }
 ]

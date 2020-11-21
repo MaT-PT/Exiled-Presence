@@ -42,5 +42,9 @@
   {
     "name": "Sarn Arena",
     "key": "area_quest_3"
+  },
+  {
+    "name": "The Rogue Harbour",
+    "key": "area_heist"
   }
 ]

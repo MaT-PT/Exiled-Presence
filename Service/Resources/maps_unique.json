@@ -1,11 +1,11 @@
 [
   {
     "name": "Whakawairua Tuahu",
-    "key": "area_map_unique_whakawairua_tuahu"
+    "key": "area_map_unique_whakawairua_tuah"
   },
   {
     "name": "Maelström of Chaos",
-    "key": "area_map_unique_maelstrom_of_chaos"
+    "key": "area_map_unique_maelstrom_of_cha"
   },
   {
     "name": "Pillars of Arun",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Oba's Cursed Trove",
-    "key": "area_map_unique_obas_cursed_trove"
+    "key": "area_map_unique_obas_cursed_trov"
   },
   {
     "name": "Poorjoy's Asylum",
@@ -21,11 +21,11 @@
   },
   {
     "name": "Caer Blaidd, Wolfpack's Den",
-    "key": "area_map_unique_caer_blaidd_wolfpacks_den"
+    "key": "area_map_unique_caer_blaidd_wolf"
   },
   {
     "name": "The Twilight Temple",
-    "key": "area_map_unique_the_twilight_temple"
+    "key": "area_map_unique_the_twilight_tem"
   },
   {
     "name": "Mao Kun",
@@ -41,15 +41,15 @@
   },
   {
     "name": "The Coward's Trial",
-    "key": "area_map_unique_the_cowards_trial"
+    "key": "area_map_unique_the_cowards_tria"
   },
   {
     "name": "Hall of Grandmasters",
-    "key": "area_map_unique_hall_of_grandmasters"
+    "key": "area_map_unique_hall_of_grandmas"
   },
   {
     "name": "The Putrid Cloister",
-    "key": "area_map_unique_the_putrid_cloister"
+    "key": "area_map_unique_the_putrid_clois"
   },
   {
     "name": "Death and Taxes",
@@ -57,7 +57,7 @@
   },
   {
     "name": "The Vinktar Square",
-    "key": "area_map_unique_the_vinktar_square"
+    "key": "area_map_unique_the_vinktar_squa"
   },
   {
     "name": "Hallowed Ground",
@@ -69,7 +69,7 @@
   },
   {
     "name": "The Perandus Manor",
-    "key": "area_map_unique_the_perandus_manor"
+    "key": "area_map_unique_the_perandus_man"
   },
   {
     "name": "The Beachhead",
@@ -77,27 +77,31 @@
   },
   {
     "name": "Doryani's Machinarium",
-    "key": "area_map_unique_doryanis_machinarium"
+    "key": "area_map_unique_doryanis_machina"
+  },
+  {
+    "name": "Untainted Paradise",
+    "key": "area_map_unique_untainted_paradi"
   },
   {
     "name": "Infused Beachhead",
-    "key": "area_map_unique_infused_beachhead"
+    "key": "area_map_unique_infused_beachhea"
   },
   {
     "name": "Altered Distant Memory",
-    "key": "area_map_unique_synthesis_altered_distant_memory"
+    "key": "area_map_unique_synthesis_altere"
   },
   {
     "name": "Augmented Distant Memory",
-    "key": "area_map_unique_synthesis_augmented_distant_memory"
+    "key": "area_map_unique_synthesis_augmen"
   },
   {
     "name": "Rewritten Distant Memory",
-    "key": "area_map_unique_synthesis_rewritten_distant_memory"
+    "key": "area_map_unique_synthesis_rewrit"
   },
   {
     "name": "Twisted Distant Memory",
-    "key": "area_map_unique_synthesis_twisted_distant_memory"
+    "key": "area_map_unique_synthesis_twiste"
   },
   {
     "name": "Cortex",

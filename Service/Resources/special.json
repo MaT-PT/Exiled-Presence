@@ -46,5 +46,41 @@
   {
     "name": "The Rogue Harbour",
     "key": "area_heist"
+  },
+  {
+    "name": "Bunker",
+    "key": "area_heist_1_bunker"
+  },
+  {
+    "name": "Smuggler's Den",
+    "key": "area_heist_2_smugglers_den"
+  },
+  {
+    "name": "Laboratory",
+    "key": "area_heist_3_laboratory"
+  },
+  {
+    "name": "Repository",
+    "key": "area_heist_4_repository"
+  },
+  {
+    "name": "Prohibited Library",
+    "key": "area_heist_5_prohibited_library"
+  },
+  {
+    "name": "Tunnels",
+    "key": "area_heist_6_tunnels"
+  },
+  {
+    "name": "Underbelly",
+    "key": "area_heist_7_underbelly"
+  },
+  {
+    "name": "Records Office",
+    "key": "area_heist_8_records_office"
+  },
+  {
+    "name": "Mansion",
+    "key": "area_heist_9_mansion"
   }
 ]
